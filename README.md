@@ -10,10 +10,9 @@ Here are some ideas to get you started:
       ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 - 🌱 I’m currently learning 
-      - Redis
+      `- Redis
       - live wire 
-      - inertia 
-      - linux os
+      - inertia `
 
 
 - 📫 How to reach me: 
