@@ -1,16 +1,40 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**nadia-am/nadia-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Motivated software Engineer with a passion for learning new technologies. I am hardworking and willing to work as part of a team. Always looking to learn   more skills to enhance my knowledge and experience. I am not scared to take on new challenges.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 
+      ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+- 🌱 I’m currently learning 
+      - Redis
+      - live wire 
+      - inertia 
+      - linux os
+
+
+- 📫 How to reach me: 
+
+    <a href="https://www.linkedin.com/in/nadia-amouee/" rel="nofollow"><img src="https://camo.githubusercontent.com/6f98bdb85ad2d89e276423aed2ce2c1bfe0aefc72c2f11bcec00e5bfc08a331e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d6630663066303f267374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d306537366138" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-f0f0f0?&amp;style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0e76a8" style="max-width: 100%;"></a>
+    
+    <a href="mailto:nadia.amoee@gmail.com"><img src="https://camo.githubusercontent.com/845b3756f429b21833bd3e9ee897ab03294a884c614965fd66b98ebb62cce957/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d6630663066303f267374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d776869746526636f6c6f723d656134333335" alt="GMail" data-canonical-src="https://img.shields.io/badge/gmail-f0f0f0?&amp;style=flat&amp;logo=gmail&amp;logoColor=white&amp;color=ea4335" style="max-width: 100%;"></a>
+    
+- tools for programming :
+
+<p dir="auto">
+<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="phpstorm" data-canonical-src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white-f0f0f0?&amp;style=flat&amp;logo=gmail&amp;logoColor=white&amp;color=ea4335" style="max-width: 100%;">
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b152bfaf72055cdec5b9bfe86e89b49bb10ef49ec096e3b8d370698d42f5b9e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/b152bfaf72055cdec5b9bfe86e89b49bb10ef49ec096e3b8d370698d42f5b9e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="Postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=flat&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/08bee4768ef72a48d6036c78c789362ff66aca54648750e62207bd14a8434b75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/08bee4768ef72a48d6036c78c789362ff66aca54648750e62207bd14a8434b75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0cd0ca7f2a198f9adcf09f8fbb4909deca81b27292a3f1a69685aeff05624a4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746c616225323063692d2532333138313731372e7376673f7374796c653d666c6174266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0cd0ca7f2a198f9adcf09f8fbb4909deca81b27292a3f1a69685aeff05624a4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746c616225323063692d2532333138313731372e7376673f7374796c653d666c6174266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465" alt="GitLab CI" data-canonical-src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;"></a></p>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e6201b8e82c976d652fb60b763fb0b82fa3571abbf10991059b0bd3d88d38020/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/e6201b8e82c976d652fb60b763fb0b82fa3571abbf10991059b0bd3d88d38020/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=flat&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ea17ef65179b3fae57b063ebcbe50898f7886f90bd880ba4b7a7a97497527032/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61632532306f732d3030303030303f7374796c653d666c6174266c6f676f3d6d61636f73266c6f676f436f6c6f723d463046304630"><img src="https://camo.githubusercontent.com/ea17ef65179b3fae57b063ebcbe50898f7886f90bd880ba4b7a7a97497527032/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61632532306f732d3030303030303f7374796c653d666c6174266c6f676f3d6d61636f73266c6f676f436f6c6f723d463046304630" alt="macOS" data-canonical-src="https://img.shields.io/badge/mac%20os-000000?style=flat&amp;logo=macos&amp;logoColor=F0F0F0" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6dfdf056f3db780c5609809cd41569572893bd21637b42c993e3ca2866952bad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666c6174266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6dfdf056f3db780c5609809cd41569572893bd21637b42c993e3ca2866952bad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666c6174266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white" style="max-width: 100%;"></a></p>
+
