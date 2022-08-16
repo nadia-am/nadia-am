@@ -7,14 +7,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on :
       
-      
-      [Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-      
-      [php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
 
 - 🌱 I’m currently learning 
       `- Redis
+      
       - live wire 
+      
       - inertia `
 
 
