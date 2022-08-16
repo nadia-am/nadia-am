@@ -11,11 +11,13 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning 
-      `- Redis
+      `
+      - Redis
       
       - live wire 
       
-      - inertia `
+      - inertia 
+      `
 
 
 - 📫 How to reach me: 
