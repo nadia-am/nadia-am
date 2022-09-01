@@ -8,17 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on :<br/>
       ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
       ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-
-- 🌱 I’m currently learning 
-      
-      
-      - Redis
-      
-      - live wire 
-      
-      - inertia 
-      
+   
 
 
 - 📫 How to reach me: 
