@@ -1,4 +1,3 @@
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 ## Hi there 👋
 
