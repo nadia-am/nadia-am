@@ -26,9 +26,9 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 
 <div align="center">
 
-| Project     | Tech Stack | Repo        | Link      |
-| ---------   | ---------- | ----------- | --------- |
-| Selio       | React JS, MongoDB        | [Github](https://github.com/nadia-amouei/Sellio) | 
+| Project     | Tech Stack | Repo        | 
+| ---------   | ---------- | ----------- |
+| Aparat       | Laravel   | [Github](https://github.com/nadia-am/aparat) | 
 
 
 </div>
