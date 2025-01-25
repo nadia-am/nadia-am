@@ -21,7 +21,7 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 - **Fullstack Developer** at [Mihan Web Host](https://mihanwebhost.com/) (2021 – 2024)
 - **Backend Developer** at [Favana] (2017 – 2021)
 
-/*
+
 ## 🚀 Projects
 
 <div align="center">
@@ -32,7 +32,7 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 
 
 </div>
-*/
+
 
 ## 📈 My Stats
 
